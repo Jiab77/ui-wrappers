@@ -20,7 +20,7 @@ Here is the actual features included in the project:
 
 1. `browserSafeCheck()`: Verify if running from a static file.
 2. `createToast(message, type)`: Create a notification toast.
-3. `escapeHtml()`: Escape `HTML` string. ([Reference](https://stackoverflow.com/a/46685127))
+3. `escapeHtml(str)`: Escape `HTML` string. ([Reference](https://stackoverflow.com/a/46685127))
 4. `readFile(file, callback)`: [FileReader](https://developer.mozilla.org/en-US/docs/Web/API/FileReader) wrapper, read file and execute given callback.
 5. `updateFileSize(fileList, display)`: Take a [FileList](https://developer.mozilla.org/en-US/docs/Web/API/FileList) as input and convert file size in bytes to human sizes.
 
