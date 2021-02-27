@@ -1,4 +1,4 @@
-# UI-wrappers
+# UI-Wrappers
 
 A collection of wrappers for UI frameworks.
 
